@@ -32,7 +32,7 @@ gem 'bulma-rails', '~> 0.7.5'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'gravatar_image_tag', '~> 1.2'
-gem 'carrierwave', '~> 2.0', '>= 2.0.2'
+gem 'carrierwave', '~> 2.1'
 gem 'mini_magick', '~> 4.9', '>= 4.9.5'
 
 # Use Capistrano for deployment
